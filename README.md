@@ -7,8 +7,9 @@ Coding Assignment -- Steps to run
 2. Build ProductsImport console project
 3. Open cmd and move to the bin\debug folder produced in step 2.
 4. Run the following command
-   > ProductsImport capterra feed-products/capterra.yaml
-   > ProductsImport softwareadvice feed-products/softwareadvice.json
+   > "ProductsImport capterra feed-products/capterra.yaml" 
+      OR
+   > "ProductsImport softwareadvice feed-products/softwareadvice.json"
 
 5. Optionally you can just run 
    > ProductsImport
