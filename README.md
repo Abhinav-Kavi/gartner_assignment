@@ -11,9 +11,7 @@ Coding Assignment -- Steps to run
       OR
    > "ProductsImport softwareadvice feed-products/softwareadvice.json"
 
-5. Optionally you can just run 
-   > ProductsImport
-   In this case the prompt will ask for the source type and filePath of the input file to be imported.
+5. Optionally you can just run "ProductsImport" from cmd.In this case the prompt will ask for the source type and filePath of the input file to be imported.
 
 6. The output will be shown in the terminal. Additionally an output file is created in the project build location.
   
